@@ -98,7 +98,7 @@ function averageGrade(array) {
 
 }
 console.log (averageGrade(grades2))
-
+console.log (averageGrade(grades))
 
 
 
